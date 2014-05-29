@@ -1,33 +1,33 @@
-[submodule "mobileoxford/moxie-js-client"]
-	path = mobileoxford/moxie-js-client
+[submodule "mobilefhnw/moxie-js-client"]
+	path = mobilefhnw/moxie-js-client
 	url = https://github.com/ox-it/moxie-js-client.git
-[submodule "mobileoxford/plugin-sources/PushPlugin"]
-	path = mobileoxford/plugin-sources/PushPlugin
+[submodule "mobilefhnw/plugin-sources/PushPlugin"]
+	path = mobilefhnw/plugin-sources/PushPlugin
 	url = https://github.com/ox-it/phonegap-pushplugin.git
-[submodule "mobileoxford/plugin-sources/GAPlugin"]
-	path = mobileoxford/plugin-sources/GAPlugin
+[submodule "mobilefhnw/plugin-sources/GAPlugin"]
+	path = mobilefhnw/plugin-sources/GAPlugin
 	url = https://github.com/phonegap-build/GAPlugin.git
-[submodule "mobileoxford/plugin-sources/Calendar-PhoneGap-Plugin"]
-	path = mobileoxford/plugin-sources/Calendar-PhoneGap-Plugin
+[submodule "mobilefhnw/plugin-sources/Calendar-PhoneGap-Plugin"]
+	path = mobilefhnw/plugin-sources/Calendar-PhoneGap-Plugin
 	url = https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin.git
-[submodule "mobileoxford/plugin-sources/cordova-plugin-device"]
-	path = mobileoxford/plugin-sources/cordova-plugin-device
+[submodule "mobilefhnw/plugin-sources/cordova-plugin-device"]
+	path = mobilefhnw/plugin-sources/cordova-plugin-device
 	url = https://github.com/apache/cordova-plugin-device.git
-[submodule "mobileoxford/plugin-sources/cordova-plugin-contacts"]
-	path = mobileoxford/plugin-sources/cordova-plugin-contacts
+[submodule "mobilefhnw/plugin-sources/cordova-plugin-contacts"]
+	path = mobilefhnw/plugin-sources/cordova-plugin-contacts
 	url = https://github.com/apache/cordova-plugin-contacts.git
-[submodule "mobileoxford/plugin-sources/cordova-plugin-dialogs"]
-	path = mobileoxford/plugin-sources/cordova-plugin-dialogs
+[submodule "mobilefhnw/plugin-sources/cordova-plugin-dialogs"]
+	path = mobilefhnw/plugin-sources/cordova-plugin-dialogs
 	url = https://github.com/apache/cordova-plugin-dialogs.git
-[submodule "mobileoxford/plugin-sources/cordova-plugin-splashscreen"]
-	path = mobileoxford/plugin-sources/cordova-plugin-splashscreen
+[submodule "mobilefhnw/plugin-sources/cordova-plugin-splashscreen"]
+	path = mobilefhnw/plugin-sources/cordova-plugin-splashscreen
 	url = https://github.com/apache/cordova-plugin-splashscreen.git
-[submodule "mobileoxford/plugin-sources/cordova-plugin-geolocation"]
-	path = mobileoxford/plugin-sources/cordova-plugin-geolocation
+[submodule "mobilefhnw/plugin-sources/cordova-plugin-geolocation"]
+	path = mobilefhnw/plugin-sources/cordova-plugin-geolocation
 	url = https://github.com/apache/cordova-plugin-geolocation.git
-[submodule "mobileoxford/plugin-sources/cordova-plugin-inappbrowser"]
-	path = mobileoxford/plugin-sources/cordova-plugin-inappbrowser
+[submodule "mobilefhnw/plugin-sources/cordova-plugin-inappbrowser"]
+	path = mobilefhnw/plugin-sources/cordova-plugin-inappbrowser
 	url = https://github.com/apache/cordova-plugin-inappbrowser.git
-[submodule "mobileoxford/plugin-sources/cordova-plugin-statusbar"]
-	path = mobileoxford/plugin-sources/cordova-plugin-statusbar
+[submodule "mobilefhnw/plugin-sources/cordova-plugin-statusbar"]
+	path = mobilefhnw/plugin-sources/cordova-plugin-statusbar
 	url = https://github.com/apache/cordova-plugin-statusbar.git
