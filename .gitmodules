@@ -1,6 +1,6 @@
 [submodule "mobilefhnw/moxie-js-client"]
 	path = mobilefhnw/moxie-js-client
-	url = https://github.com/ox-it/moxie-js-client.git
+	url = https://github.com/FHNW/moxie-js-client.git
 [submodule "mobilefhnw/plugin-sources/PushPlugin"]
 	path = mobilefhnw/plugin-sources/PushPlugin
 	url = https://github.com/ox-it/phonegap-pushplugin.git
@@ -31,3 +31,6 @@
 [submodule "mobilefhnw/plugin-sources/cordova-plugin-statusbar"]
 	path = mobilefhnw/plugin-sources/cordova-plugin-statusbar
 	url = https://github.com/apache/cordova-plugin-statusbar.git
+[submodule "mobilefhnw/plugin-sources/cordova-phone-dialer"]
+	path = mobilefhnw/plugin-sources/cordova-phone-dialer
+	url = https://github.com/gibsosmart/cordova-phone-dialer
